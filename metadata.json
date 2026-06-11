@@ -1,0 +1,6 @@
+{
+  "name": "Health Monitor",
+  "description": "Bento Grid styled health monitoring dashboard with live ECG simulation, metrics, alerts, and historical data charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
